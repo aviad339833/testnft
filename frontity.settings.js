@@ -45,7 +45,7 @@ const settings = {
       "name": "@frontity/wp-source",
       "state": {
         "source": {
-          "url": "https://nftsales.net/"
+          "url": "https://nftsales.net/" 
         }
       }
     },
